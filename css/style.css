@@ -1,0 +1,15 @@
+.bg-custom {
+  background-color: #cbd5e1;
+}
+.btn-book-now {
+  background-color: #cffafe;
+  color: darkslategrey;
+  font-weight: 700;
+  border: #cbd5e1;
+}
+a {
+  text-decoration: none;
+}
+.btn-success:hover {
+  background-color: #fff;
+}
