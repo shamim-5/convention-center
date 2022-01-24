@@ -30,6 +30,16 @@ p {
   border: none;
   color: #3f87f5;
 }
+/* contact section css  */
+.card-group{
+  
+  background-color: #f3e8ff;
+  color: #164e63;
+}
+ul > li{
+  list-style: none;
+}
+/* package section css  */
 .btn-choose-plan:hover {
   background-color: #cffafe;
 }
