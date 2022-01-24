@@ -1,4 +1,9 @@
-.bg-custom {
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@700&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.nav-bg {
   background-color: #cbd5e1;
 }
 .btn-book-now {
@@ -10,6 +15,40 @@
 a {
   text-decoration: none;
 }
-.btn-success:hover {
-  background-color: #fff;
+.btn-book-now:hover {
+  background-color: #e0e7ff;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+}
+p {
+  color: #848199;
+  font-size: 15px;
+}
+.btn-choose-plan {
+  background-color: #d8b4fe;
+  border: none;
+  color: #3f87f5;
+}
+.btn-choose-plan:hover {
+  background-color: #cffafe;
+}
+.card:hover {
+  background-color: #3f87f5;
+}
+.card:hover p {
+  color: #fff;
+}
+.tool-tip {
+  display: none;
+}
+.card:hover .tool-tip {
+  display: block;
+  top: -15px;
+  right: 15px;
+}
+.card:hover {
+  border-radius: 25px;
+  transform: translateY(-25px);
+  transition: transform 0.3s ease-in;
 }
