@@ -12,6 +12,9 @@
   font-weight: 700;
   border: #cbd5e1;
 }
+.carousel-caption > p {
+  color: #e2e2e2;
+}
 a {
   text-decoration: none;
 }
@@ -31,12 +34,11 @@ p {
   color: #3f87f5;
 }
 /* contact section css  */
-.card-group{
-  
-  background-color: #f3e8ff;
+.card-group {
+  background-color: #eef2ff;
   color: #164e63;
 }
-ul > li{
+ul > li {
   list-style: none;
 }
 /* package section css  */
