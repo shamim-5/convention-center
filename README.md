@@ -1,6 +1,4 @@
-# Convention Center Assignment
+# Convention Center
 
-## [https://classroom.github.com/a/DSUQJcwB](https://classroom.github.com/a/DSUQJcwB)
+## [https://shamim-5.github.io/convention-center/](https://shamim-5.github.io/convention-center/)
 
-### Private Repository Link: [https://classroom.github.com/a/DSUQJcwB](https://classroom.github.com/a/DSUQJcwB)
-# convention-center-mss38
